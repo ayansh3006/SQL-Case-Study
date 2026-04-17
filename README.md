@@ -43,7 +43,7 @@ This analysis answers the following questions:
 
 9. Monthly Growth Trends -> Month-over-month sales growth rate
 
-10. Market Potential Analysis
+10. Market Potential Analysis ->
 
 Identify top cities based on:
 
